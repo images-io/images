@@ -1,0 +1,4780 @@
+{
+    "all_category": [
+        {
+            "group_id": 1,
+            "handle": "ai-blog-writer",
+            "id": 17,
+            "name": "AI Blog Writer",
+            "tool_count": 296,
+            "top_tool_count": 292,
+            "top_visited_count": 26932187,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "text-to-image",
+            "id": 45,
+            "name": "Text to Image",
+            "tool_count": 340,
+            "top_tool_count": 327,
+            "top_visited_count": 98894292,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "ai-anime-cartoon-generator",
+            "id": 78,
+            "name": "AI Anime \u0026 Cartoon Generator",
+            "tool_count": 73,
+            "top_tool_count": 61,
+            "top_visited_count": 65537794,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-maps-generator",
+            "id": 92,
+            "name": "AI Maps Generator",
+            "tool_count": 7,
+            "top_tool_count": 6,
+            "top_visited_count": 76842,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "ai-audio-enhancer",
+            "id": 112,
+            "name": "AI Audio Enhancer",
+            "tool_count": 88,
+            "top_tool_count": 86,
+            "top_visited_count": 23354219,
+            "type": 1
+        },
+        {
+            "group_id": 6,
+            "handle": "accounting-assistant",
+            "id": 128,
+            "name": "AI Accounting Assistant",
+            "tool_count": 49,
+            "top_tool_count": 49,
+            "top_visited_count": 1355480,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "advertising-assistant",
+            "id": 139,
+            "name": "AI Advertising Assistant",
+            "tool_count": 2008,
+            "top_tool_count": 1962,
+            "top_visited_count": 728445355,
+            "type": 1
+        },
+        {
+            "group_id": 8,
+            "handle": "ai-detector-1",
+            "id": 163,
+            "name": "AI Detector",
+            "tool_count": 118,
+            "top_tool_count": 108,
+            "top_visited_count": 32752490,
+            "type": 1
+        },
+        {
+            "group_id": 9,
+            "handle": "ai-chatbot",
+            "id": 168,
+            "name": "AI Chatbot",
+            "tool_count": 1810,
+            "top_tool_count": 1632,
+            "top_visited_count": 248333169,
+            "type": 1
+        },
+        {
+            "group_id": 10,
+            "handle": "ai-art-generator",
+            "id": 173,
+            "name": "AI Art Generator",
+            "tool_count": 806,
+            "top_tool_count": 730,
+            "top_visited_count": 298232838,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "ai-cooking-assistant",
+            "id": 183,
+            "name": "AI Cooking Assistant",
+            "tool_count": 57,
+            "top_tool_count": 41,
+            "top_visited_count": 351359,
+            "type": 1
+        },
+        {
+            "group_id": 12,
+            "handle": "3d-model-generator",
+            "id": 204,
+            "name": "AI 3D Model Generator",
+            "tool_count": 67,
+            "top_tool_count": 64,
+            "top_visited_count": 7407652,
+            "type": 1
+        },
+        {
+            "group_id": 13,
+            "handle": "ai-homework-helper",
+            "id": 207,
+            "name": "Homework Helper",
+            "tool_count": 115,
+            "top_tool_count": 101,
+            "top_visited_count": 42680593,
+            "type": 1
+        },
+        {
+            "group_id": 16,
+            "handle": "large-language-models-(llms)",
+            "id": 241,
+            "name": "Large Language Models (LLMs)",
+            "tool_count": 1165,
+            "top_tool_count": 1078,
+            "top_visited_count": 1698142268,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-instagram-assistant",
+            "id": 246,
+            "name": "AI Instagram Assistant",
+            "tool_count": 118,
+            "top_tool_count": 114,
+            "top_visited_count": 13443341,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-twitter-assistant",
+            "id": 247,
+            "name": "AI Twitter Assistant",
+            "tool_count": 116,
+            "top_tool_count": 105,
+            "top_visited_count": 9096210,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-youtube-assistant",
+            "id": 248,
+            "name": "AI YouTube Assistant",
+            "tool_count": 134,
+            "top_tool_count": 125,
+            "top_visited_count": 13680959,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-facebook-assistant",
+            "id": 249,
+            "name": "AI Facebook Assistant",
+            "tool_count": 67,
+            "top_tool_count": 66,
+            "top_visited_count": 10192075,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-tiktok-assistant",
+            "id": 250,
+            "name": "AI Tiktok Assistant",
+            "tool_count": 66,
+            "top_tool_count": 64,
+            "top_visited_count": 39760490,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-presentation-generator",
+            "id": 253,
+            "name": "AI Presentation Generator",
+            "tool_count": 95,
+            "top_tool_count": 92,
+            "top_visited_count": 38482195,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-spreadsheet",
+            "id": 254,
+            "name": "AI Spreadsheet",
+            "tool_count": 42,
+            "top_tool_count": 42,
+            "top_visited_count": 1352128,
+            "type": 1
+        },
+        {
+            "group_id": 16,
+            "handle": "nsfw",
+            "id": 255,
+            "name": "NSFW",
+            "tool_count": 62,
+            "top_tool_count": 61,
+            "top_visited_count": 38289535,
+            "type": 1
+        },
+        {
+            "group_id": 6,
+            "handle": "research-tool",
+            "id": 256,
+            "name": "Research Tool",
+            "tool_count": 128,
+            "top_tool_count": 124,
+            "top_visited_count": 1642052741,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "translate",
+            "id": 257,
+            "name": "Translate",
+            "tool_count": 195,
+            "top_tool_count": 174,
+            "top_visited_count": 249751761,
+            "type": 1
+        },
+        {
+            "group_id": 16,
+            "handle": "web3",
+            "id": 258,
+            "name": "Web3",
+            "tool_count": 40,
+            "top_tool_count": 40,
+            "top_visited_count": 937139,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "papers",
+            "id": 259,
+            "name": "Papers",
+            "tool_count": 61,
+            "top_tool_count": 60,
+            "top_visited_count": 25351923,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "ai-animated-video",
+            "id": 260,
+            "name": "AI Animated Video",
+            "tool_count": 112,
+            "top_tool_count": 110,
+            "top_visited_count": 48182842,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "recording",
+            "id": 261,
+            "name": "Recording",
+            "tool_count": 59,
+            "top_tool_count": 54,
+            "top_visited_count": 18999748,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-devops-assistant",
+            "id": 262,
+            "name": "AI DevOps Assistant",
+            "tool_count": 6,
+            "top_tool_count": 6,
+            "top_visited_count": 98896,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "handwriting",
+            "id": 18,
+            "name": "Handwriting",
+            "tool_count": 17,
+            "top_tool_count": 16,
+            "top_visited_count": 1903457,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-photo-image-generator",
+            "id": 46,
+            "name": "AI Photo \u0026 Image Generator",
+            "tool_count": 1048,
+            "top_tool_count": 982,
+            "top_visited_count": 303810736,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "image-to-video",
+            "id": 79,
+            "name": "Image to Video",
+            "tool_count": 25,
+            "top_tool_count": 25,
+            "top_visited_count": 3326939,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-landing-page-builder",
+            "id": 93,
+            "name": "AI Landing Page Builder",
+            "tool_count": 154,
+            "top_tool_count": 154,
+            "top_visited_count": 58826608,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "ai-music-generator",
+            "id": 113,
+            "name": "AI Music Generator",
+            "tool_count": 139,
+            "top_tool_count": 125,
+            "top_visited_count": 35544778,
+            "type": 1
+        },
+        {
+            "group_id": 6,
+            "handle": "ai-business-ideas-generator",
+            "id": 129,
+            "name": "AI Business Ideas Generator",
+            "tool_count": 62,
+            "top_tool_count": 61,
+            "top_visited_count": 7406005,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-analytics-assistant",
+            "id": 140,
+            "name": "AI Analytics Assistant",
+            "tool_count": 913,
+            "top_tool_count": 908,
+            "top_visited_count": 165952467,
+            "type": 1
+        },
+        {
+            "group_id": 8,
+            "handle": "ai-checker-essay",
+            "id": 164,
+            "name": "AI Checker Essay",
+            "tool_count": 76,
+            "top_tool_count": 75,
+            "top_visited_count": 64994373,
+            "type": 1
+        },
+        {
+            "group_id": 9,
+            "handle": "ai-girlfriend",
+            "id": 169,
+            "name": "AI Girlfriend",
+            "tool_count": 85,
+            "top_tool_count": 76,
+            "top_visited_count": 21410885,
+            "type": 1
+        },
+        {
+            "group_id": 10,
+            "handle": "ai-colorize",
+            "id": 174,
+            "name": "AI Colorize",
+            "tool_count": 38,
+            "top_tool_count": 36,
+            "top_visited_count": 3780801,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "ai-dating-assistant",
+            "id": 184,
+            "name": "AI Dating Assistant",
+            "tool_count": 92,
+            "top_tool_count": 81,
+            "top_visited_count": 11105339,
+            "type": 1
+        },
+        {
+            "group_id": 12,
+            "handle": "text-to-3d",
+            "id": 205,
+            "name": "Text to 3D",
+            "tool_count": 11,
+            "top_tool_count": 11,
+            "top_visited_count": 709807,
+            "type": 1
+        },
+        {
+            "group_id": 13,
+            "handle": "ai-coaching",
+            "id": 208,
+            "name": "AI Coaching",
+            "tool_count": 162,
+            "top_tool_count": 156,
+            "top_visited_count": 7708644,
+            "type": 1
+        },
+        {
+            "group_id": 16,
+            "handle": "ai-tools-directory",
+            "id": 242,
+            "name": "AI Tools Directory",
+            "tool_count": 604,
+            "top_tool_count": 567,
+            "top_visited_count": 113283930,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "copywriting",
+            "id": 19,
+            "name": "Copywriting",
+            "tool_count": 315,
+            "top_tool_count": 308,
+            "top_visited_count": 54210634,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-illustration-generator",
+            "id": 47,
+            "name": "AI Illustration Generator",
+            "tool_count": 236,
+            "top_tool_count": 227,
+            "top_visited_count": 111440409,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "ai-music-video-generator",
+            "id": 80,
+            "name": "AI Music Video Generator",
+            "tool_count": 6,
+            "top_tool_count": 5,
+            "top_visited_count": 271403,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-website-builder",
+            "id": 94,
+            "name": "AI Website Builder",
+            "tool_count": 405,
+            "top_tool_count": 404,
+            "top_visited_count": 209461677,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "text-to-speech",
+            "id": 114,
+            "name": "Text-to-Speech",
+            "tool_count": 185,
+            "top_tool_count": 174,
+            "top_visited_count": 57758396,
+            "type": 1
+        },
+        {
+            "group_id": 6,
+            "handle": "ai-consulting-assistant",
+            "id": 130,
+            "name": "AI Consulting Assistant",
+            "tool_count": 67,
+            "top_tool_count": 64,
+            "top_visited_count": 1574863,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-customer-service-assistant",
+            "id": 141,
+            "name": "AI Customer Service Assistant",
+            "tool_count": 570,
+            "top_tool_count": 565,
+            "top_visited_count": 41183992,
+            "type": 1
+        },
+        {
+            "group_id": 8,
+            "handle": "ai-plagiarism-checker",
+            "id": 165,
+            "name": "AI Plagiarism Checker",
+            "tool_count": 57,
+            "top_tool_count": 56,
+            "top_visited_count": 15303614,
+            "type": 1
+        },
+        {
+            "group_id": 9,
+            "handle": "ai-god",
+            "id": 170,
+            "name": "AI God",
+            "tool_count": 2,
+            "top_tool_count": 2,
+            "top_visited_count": 3706,
+            "type": 1
+        },
+        {
+            "group_id": 10,
+            "handle": "ai-design-generator",
+            "id": 175,
+            "name": "AI Design Generator",
+            "tool_count": 400,
+            "top_tool_count": 385,
+            "top_visited_count": 129082682,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "ai-trip-planner",
+            "id": 185,
+            "name": "AI Trip Planner",
+            "tool_count": 99,
+            "top_tool_count": 94,
+            "top_visited_count": 1497764,
+            "type": 1
+        },
+        {
+            "group_id": 12,
+            "handle": "image-to-3d-model",
+            "id": 206,
+            "name": "Image to 3D Model",
+            "tool_count": 17,
+            "top_tool_count": 16,
+            "top_visited_count": 1566117,
+            "type": 1
+        },
+        {
+            "group_id": 13,
+            "handle": "ai-knowledge-base",
+            "id": 209,
+            "name": "AI Knowledge Base",
+            "tool_count": 294,
+            "top_tool_count": 288,
+            "top_visited_count": 14774561,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-word",
+            "id": 222,
+            "name": "AI WORD",
+            "tool_count": 53,
+            "top_tool_count": 48,
+            "top_visited_count": 237859627,
+            "type": 1
+        },
+        {
+            "group_id": 16,
+            "handle": "newsletter",
+            "id": 243,
+            "name": "Newsletter",
+            "tool_count": 65,
+            "top_tool_count": 64,
+            "top_visited_count": 15146903,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "captions-or-subtitle",
+            "id": 20,
+            "name": "Captions or Subtitle",
+            "tool_count": 171,
+            "top_tool_count": 164,
+            "top_visited_count": 18128798,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-avatar-generator",
+            "id": 48,
+            "name": "AI Avatar Generator",
+            "tool_count": 239,
+            "top_tool_count": 219,
+            "top_visited_count": 58853597,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "ai-video-editor",
+            "id": 81,
+            "name": "AI Video Editor",
+            "tool_count": 153,
+            "top_tool_count": 146,
+            "top_visited_count": 128654739,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "no-code-low-code",
+            "id": 95,
+            "name": "No-Code\u0026Low-Code",
+            "tool_count": 313,
+            "top_tool_count": 312,
+            "top_visited_count": 52445705,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "speech-to-text",
+            "id": 115,
+            "name": "Speech-to-Text",
+            "tool_count": 205,
+            "top_tool_count": 184,
+            "top_visited_count": 26097026,
+            "type": 1
+        },
+        {
+            "group_id": 6,
+            "handle": "ai-trading-bot-assistant",
+            "id": 131,
+            "name": "AI Trading Bot Assistant",
+            "tool_count": 83,
+            "top_tool_count": 81,
+            "top_visited_count": 4459466,
+            "type": 1
+        },
+        {
+            "group_id": 8,
+            "handle": "ai-grammar-checker",
+            "id": 166,
+            "name": "AI Grammar Checker",
+            "tool_count": 90,
+            "top_tool_count": 82,
+            "top_visited_count": 79443152,
+            "type": 1
+        },
+        {
+            "group_id": 9,
+            "handle": "ai-joke",
+            "id": 171,
+            "name": "AI Joke",
+            "tool_count": 6,
+            "top_tool_count": 6,
+            "top_visited_count": 41975,
+            "type": 1
+        },
+        {
+            "group_id": 10,
+            "handle": "ai-graphic-design",
+            "id": 176,
+            "name": "AI Graphic Design",
+            "tool_count": 285,
+            "top_tool_count": 275,
+            "top_visited_count": 366646579,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "ai-recipe-assistant",
+            "id": 186,
+            "name": "AI Recipe Assistant",
+            "tool_count": 74,
+            "top_tool_count": 54,
+            "top_visited_count": 436621,
+            "type": 1
+        },
+        {
+            "group_id": 13,
+            "handle": "ai-knowledge-graph",
+            "id": 210,
+            "name": "AI Knowledge Graph",
+            "tool_count": 62,
+            "top_tool_count": 62,
+            "top_visited_count": 2754424,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-pdf",
+            "id": 223,
+            "name": "AI PDF",
+            "tool_count": 87,
+            "top_tool_count": 79,
+            "top_visited_count": 72739875,
+            "type": 1
+        },
+        {
+            "group_id": 16,
+            "handle": "other",
+            "id": 244,
+            "name": "Other",
+            "tool_count": 1208,
+            "top_tool_count": 1120,
+            "top_visited_count": 180258470,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-background-generator",
+            "id": 49,
+            "name": "AI Background Generator",
+            "tool_count": 182,
+            "top_tool_count": 171,
+            "top_visited_count": 122127785,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "ai-video-enhancer",
+            "id": 82,
+            "name": "AI Video Enhancer",
+            "tool_count": 64,
+            "top_tool_count": 61,
+            "top_visited_count": 35177667,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-code-assistant",
+            "id": 96,
+            "name": "AI Code Assistant",
+            "tool_count": 419,
+            "top_tool_count": 389,
+            "top_visited_count": 58815225,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "voice-audio-editing",
+            "id": 116,
+            "name": "Voice \u0026 Audio Editing",
+            "tool_count": 31,
+            "top_tool_count": 31,
+            "top_visited_count": 12549184,
+            "type": 1
+        },
+        {
+            "group_id": 6,
+            "handle": "tax-assistant",
+            "id": 132,
+            "name": "Tax Assistant",
+            "tool_count": 12,
+            "top_tool_count": 12,
+            "top_visited_count": 76326,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-podcast-assistant",
+            "id": 143,
+            "name": "AI Podcast Assistant",
+            "tool_count": 81,
+            "top_tool_count": 78,
+            "top_visited_count": 12299712,
+            "type": 1
+        },
+        {
+            "group_id": 8,
+            "handle": "ai-content-detector",
+            "id": 167,
+            "name": "AI Content Detector",
+            "tool_count": 146,
+            "top_tool_count": 138,
+            "top_visited_count": 34477088,
+            "type": 1
+        },
+        {
+            "group_id": 9,
+            "handle": "ai-character",
+            "id": 172,
+            "name": "AI Character",
+            "tool_count": 220,
+            "top_tool_count": 212,
+            "top_visited_count": 286099558,
+            "type": 1
+        },
+        {
+            "group_id": 10,
+            "handle": "ai-interior-room-design",
+            "id": 177,
+            "name": "AI Interior \u0026 Room Design",
+            "tool_count": 106,
+            "top_tool_count": 99,
+            "top_visited_count": 4738630,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "life-assistant-2",
+            "id": 188,
+            "name": "Life Assistant",
+            "tool_count": 99,
+            "top_tool_count": 86,
+            "top_visited_count": 3131649,
+            "type": 1
+        },
+        {
+            "group_id": 13,
+            "handle": "ai-tutorial",
+            "id": 211,
+            "name": "AI Tutorial",
+            "tool_count": 267,
+            "top_tool_count": 258,
+            "top_visited_count": 36571429,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-productivity-tools",
+            "id": 224,
+            "name": "AI Productivity Tools",
+            "tool_count": 495,
+            "top_tool_count": 423,
+            "top_visited_count": 212049535,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "essay-writer",
+            "id": 22,
+            "name": "Essay Writer",
+            "tool_count": 100,
+            "top_tool_count": 97,
+            "top_visited_count": 28959790,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-banner-generator",
+            "id": 50,
+            "name": "AI Banner Generator",
+            "tool_count": 188,
+            "top_tool_count": 185,
+            "top_visited_count": 91016420,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "text-to-video",
+            "id": 83,
+            "name": "Text to Video",
+            "tool_count": 125,
+            "top_tool_count": 124,
+            "top_visited_count": 24352965,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-code-explanation",
+            "id": 97,
+            "name": "Code Explanation",
+            "tool_count": 147,
+            "top_tool_count": 138,
+            "top_visited_count": 14974580,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "ai-voice-changer",
+            "id": 117,
+            "name": "AI Voice Changer",
+            "tool_count": 30,
+            "top_tool_count": 26,
+            "top_visited_count": 18792543,
+            "type": 1
+        },
+        {
+            "group_id": 6,
+            "handle": "investing-assistant",
+            "id": 133,
+            "name": "Investing Assistant",
+            "tool_count": 88,
+            "top_tool_count": 86,
+            "top_visited_count": 1421103,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-reply-assistant",
+            "id": 144,
+            "name": "AI Reply Assistant",
+            "tool_count": 462,
+            "top_tool_count": 410,
+            "top_visited_count": 23432188,
+            "type": 1
+        },
+        {
+            "group_id": 10,
+            "handle": "ai-pixel-art",
+            "id": 178,
+            "name": "AI Pixel Art",
+            "tool_count": 15,
+            "top_tool_count": 13,
+            "top_visited_count": 199994,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "fun-tools",
+            "id": 189,
+            "name": "Fun Tools",
+            "tool_count": 13,
+            "top_tool_count": 11,
+            "top_visited_count": 104955,
+            "type": 1
+        },
+        {
+            "group_id": 13,
+            "handle": "ai-course",
+            "id": 212,
+            "name": "AI Course",
+            "tool_count": 209,
+            "top_tool_count": 202,
+            "top_visited_count": 49225060,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-task-management",
+            "id": 225,
+            "name": "AI Task Management",
+            "tool_count": 347,
+            "top_tool_count": 331,
+            "top_visited_count": 175894464,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "letter-writer",
+            "id": 23,
+            "name": "Letter Writer",
+            "tool_count": 24,
+            "top_tool_count": 23,
+            "top_visited_count": 84444,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-cover-generator",
+            "id": 51,
+            "name": "AI Cover Generator",
+            "tool_count": 92,
+            "top_tool_count": 89,
+            "top_visited_count": 15968529,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "ai-thumbnail-maker",
+            "id": 84,
+            "name": "AI Thumbnail Maker",
+            "tool_count": 33,
+            "top_tool_count": 32,
+            "top_visited_count": 21731335,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-code-generator",
+            "id": 98,
+            "name": "AI Code Generator",
+            "tool_count": 240,
+            "top_tool_count": 233,
+            "top_visited_count": 27360280,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "ai-voice-chat-generator",
+            "id": 118,
+            "name": "AI Voice Chat Generator",
+            "tool_count": 40,
+            "top_tool_count": 26,
+            "top_visited_count": 3773949,
+            "type": 1
+        },
+        {
+            "group_id": 6,
+            "handle": "sales-assistant",
+            "id": 134,
+            "name": "Sales Assistant",
+            "tool_count": 284,
+            "top_tool_count": 278,
+            "top_visited_count": 5742556,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-seo-assistant",
+            "id": 145,
+            "name": "AI SEO Assistant",
+            "tool_count": 466,
+            "top_tool_count": 463,
+            "top_visited_count": 22487216,
+            "type": 1
+        },
+        {
+            "group_id": 10,
+            "handle": "ai-anime-ai-art",
+            "id": 179,
+            "name": "AI Anime Art",
+            "tool_count": 76,
+            "top_tool_count": 65,
+            "top_visited_count": 67315538,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "ai-roadmap-generator",
+            "id": 190,
+            "name": "AI Roadmap Generator",
+            "tool_count": 35,
+            "top_tool_count": 35,
+            "top_visited_count": 287444,
+            "type": 1
+        },
+        {
+            "group_id": 13,
+            "handle": "ai-knowledge-management",
+            "id": 213,
+            "name": "AI Knowledge Management",
+            "tool_count": 190,
+            "top_tool_count": 189,
+            "top_visited_count": 8933807,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-team-collaboration",
+            "id": 226,
+            "name": "AI Team Collaboration",
+            "tool_count": 127,
+            "top_tool_count": 126,
+            "top_visited_count": 173691607,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "ai-lyrics-generator",
+            "id": 24,
+            "name": "AI Lyrics Generator",
+            "tool_count": 38,
+            "top_tool_count": 37,
+            "top_visited_count": 9114616,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-emoji-generator",
+            "id": 52,
+            "name": "AI Emoji Generator",
+            "tool_count": 14,
+            "top_tool_count": 13,
+            "top_visited_count": 207788,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "ai-ugc-video-generator",
+            "id": 85,
+            "name": "AI UGC Video Generator",
+            "tool_count": 64,
+            "top_tool_count": 61,
+            "top_visited_count": 10232925,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-code-refactoring",
+            "id": 99,
+            "name": "AI Code Refactoring",
+            "tool_count": 40,
+            "top_tool_count": 40,
+            "top_visited_count": 2540069,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "ai-voice-cloning",
+            "id": 119,
+            "name": "AI Voice Cloning",
+            "tool_count": 93,
+            "top_tool_count": 90,
+            "top_visited_count": 47463344,
+            "type": 1
+        },
+        {
+            "group_id": 6,
+            "handle": "nfts",
+            "id": 135,
+            "name": "NFTs",
+            "tool_count": 16,
+            "top_tool_count": 16,
+            "top_visited_count": 214579,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "bio-link",
+            "id": 146,
+            "name": "Bio Link",
+            "tool_count": 45,
+            "top_tool_count": 45,
+            "top_visited_count": 24018924,
+            "type": 1
+        },
+        {
+            "group_id": 10,
+            "handle": "design-assistant",
+            "id": 180,
+            "name": "Design Assistant",
+            "tool_count": 256,
+            "top_tool_count": 247,
+            "top_visited_count": 48055700,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "ai-gift-ideas",
+            "id": 191,
+            "name": "AI Gift Ideas",
+            "tool_count": 46,
+            "top_tool_count": 42,
+            "top_visited_count": 1134577,
+            "type": 1
+        },
+        {
+            "group_id": 13,
+            "handle": "ai-quizzes",
+            "id": 214,
+            "name": "AI Quizzes",
+            "tool_count": 131,
+            "top_tool_count": 124,
+            "top_visited_count": 11741491,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-meeting-assistant",
+            "id": 227,
+            "name": "AI Meeting Assistant",
+            "tool_count": 89,
+            "top_tool_count": 88,
+            "top_visited_count": 27629580,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "report-writing",
+            "id": 25,
+            "name": "Report Writing",
+            "tool_count": 25,
+            "top_tool_count": 25,
+            "top_visited_count": 347199,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-gif-generator",
+            "id": 53,
+            "name": "AI GIF Generator",
+            "tool_count": 5,
+            "top_tool_count": 5,
+            "top_visited_count": 5695145,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "ai-video-search",
+            "id": 86,
+            "name": "AI Video Search",
+            "tool_count": 20,
+            "top_tool_count": 20,
+            "top_visited_count": 952276,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-monitor-report-builder",
+            "id": 100,
+            "name": "AI Monitor \u0026 Report Builder",
+            "tool_count": 63,
+            "top_tool_count": 62,
+            "top_visited_count": 1662624,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "ai-celebrity-voice-generator",
+            "id": 120,
+            "name": "AI Celebrity Voice Generator",
+            "tool_count": 55,
+            "top_tool_count": 52,
+            "top_visited_count": 42501941,
+            "type": 1
+        },
+        {
+            "group_id": 6,
+            "handle": "blockchain",
+            "id": 136,
+            "name": "Blockchain",
+            "tool_count": 62,
+            "top_tool_count": 62,
+            "top_visited_count": 2637151,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-social-media-assistant",
+            "id": 147,
+            "name": "AI Social Media Assistant",
+            "tool_count": 491,
+            "top_tool_count": 453,
+            "top_visited_count": 40754302,
+            "type": 1
+        },
+        {
+            "group_id": 10,
+            "handle": "ai-font",
+            "id": 181,
+            "name": "AI Font",
+            "tool_count": 3,
+            "top_tool_count": 3,
+            "top_visited_count": 1582818,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "ai-interview-assistant",
+            "id": 192,
+            "name": "AI Interview Assistant",
+            "tool_count": 105,
+            "top_tool_count": 102,
+            "top_visited_count": 1538401,
+            "type": 1
+        },
+        {
+            "group_id": 13,
+            "handle": "ai-education-assistant",
+            "id": 215,
+            "name": "AI Education Assistant",
+            "tool_count": 338,
+            "top_tool_count": 288,
+            "top_visited_count": 27028501,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-notes-assistant",
+            "id": 228,
+            "name": "AI Notes Assistant",
+            "tool_count": 138,
+            "top_tool_count": 130,
+            "top_visited_count": 14823551,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "ai-rewriter",
+            "id": 26,
+            "name": "AI Rewriter",
+            "tool_count": 262,
+            "top_tool_count": 255,
+            "top_visited_count": 86522439,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-icon-generator",
+            "id": 54,
+            "name": "AI Icon Generator",
+            "tool_count": 45,
+            "top_tool_count": 45,
+            "top_visited_count": 9286530,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "video-to-video",
+            "id": 87,
+            "name": "Video to Video",
+            "tool_count": 17,
+            "top_tool_count": 17,
+            "top_visited_count": 2629854,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-data-mining",
+            "id": 101,
+            "name": "AI Data Mining",
+            "tool_count": 130,
+            "top_tool_count": 130,
+            "top_visited_count": 6411982,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "ai-rap-generator",
+            "id": 121,
+            "name": "AI Rap Generator",
+            "tool_count": 14,
+            "top_tool_count": 13,
+            "top_visited_count": 1148810,
+            "type": 1
+        },
+        {
+            "group_id": 6,
+            "handle": "ai-domain-name-generator",
+            "id": 137,
+            "name": "Domain Name Generator",
+            "tool_count": 48,
+            "top_tool_count": 48,
+            "top_visited_count": 2374657,
+            "type": 1
+        },
+        {
+            "group_id": 10,
+            "handle": "ai-website-designer",
+            "id": 182,
+            "name": "AI Website Designer",
+            "tool_count": 306,
+            "top_tool_count": 306,
+            "top_visited_count": 140412251,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "ai-recruiting",
+            "id": 193,
+            "name": "AI Recruiting",
+            "tool_count": 285,
+            "top_tool_count": 279,
+            "top_visited_count": 10700763,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-workflow-management",
+            "id": 229,
+            "name": "AI Workflow Management",
+            "tool_count": 431,
+            "top_tool_count": 412,
+            "top_visited_count": 48105392,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "ai-script-writing",
+            "id": 27,
+            "name": "AI Script Writing",
+            "tool_count": 87,
+            "top_tool_count": 86,
+            "top_visited_count": 2674375,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-image-enhancer",
+            "id": 55,
+            "name": "AI Image Enhancer",
+            "tool_count": 229,
+            "top_tool_count": 217,
+            "top_visited_count": 97199047,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "ai-personalized-video-generator",
+            "id": 88,
+            "name": "AI Personalized Video Generator",
+            "tool_count": 88,
+            "top_tool_count": 86,
+            "top_visited_count": 39975383,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-log-management",
+            "id": 102,
+            "name": "AI Log Management",
+            "tool_count": 7,
+            "top_tool_count": 7,
+            "top_visited_count": 0,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "ai-speech-recognition",
+            "id": 122,
+            "name": "AI Speech Recognition",
+            "tool_count": 206,
+            "top_tool_count": 180,
+            "top_visited_count": 21781920,
+            "type": 1
+        },
+        {
+            "group_id": 6,
+            "handle": "e-commerce-assistant",
+            "id": 138,
+            "name": "E-commerce Assistant",
+            "tool_count": 188,
+            "top_tool_count": 186,
+            "top_visited_count": 115801220,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-hashtag-assistant",
+            "id": 149,
+            "name": "AI Hashtag Assistant",
+            "tool_count": 53,
+            "top_tool_count": 48,
+            "top_visited_count": 1148213,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "ai-resume-builder",
+            "id": 194,
+            "name": "Resume Builder",
+            "tool_count": 202,
+            "top_tool_count": 194,
+            "top_visited_count": 7572319,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-sop",
+            "id": 230,
+            "name": "AI SOP",
+            "tool_count": 10,
+            "top_tool_count": 10,
+            "top_visited_count": 60024,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "ai-story-writing",
+            "id": 28,
+            "name": "AI Story Writing",
+            "tool_count": 231,
+            "top_tool_count": 215,
+            "top_visited_count": 14148097,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-logo-generator",
+            "id": 56,
+            "name": "AI Logo Generator",
+            "tool_count": 112,
+            "top_tool_count": 110,
+            "top_visited_count": 48702136,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "ai-video-generator",
+            "id": 89,
+            "name": "AI Video Generator",
+            "tool_count": 247,
+            "top_tool_count": 237,
+            "top_visited_count": 46548041,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-sql-query-builder",
+            "id": 103,
+            "name": "AI SQL Query Builder",
+            "tool_count": 53,
+            "top_tool_count": 53,
+            "top_visited_count": 1614973,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "ai-speech-synthesis",
+            "id": 123,
+            "name": "AI Speech Synthesis",
+            "tool_count": 200,
+            "top_tool_count": 181,
+            "top_visited_count": 63353990,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-repurpose-assistant",
+            "id": 150,
+            "name": "AI Repurpose Assistant",
+            "tool_count": 162,
+            "top_tool_count": 159,
+            "top_visited_count": 19471660,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "ai-cover-letter-generator",
+            "id": 195,
+            "name": "Cover Letter Generator",
+            "tool_count": 120,
+            "top_tool_count": 112,
+            "top_visited_count": 2716231,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-project-management",
+            "id": 231,
+            "name": "AI Project Management",
+            "tool_count": 220,
+            "top_tool_count": 218,
+            "top_visited_count": 172712207,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "ai-bio-generator",
+            "id": 29,
+            "name": "AI Bio Generator",
+            "tool_count": 103,
+            "top_tool_count": 99,
+            "top_visited_count": 2715907,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "photo-image-editor",
+            "id": 57,
+            "name": "Photo \u0026 Image Editor",
+            "tool_count": 393,
+            "top_tool_count": 360,
+            "top_visited_count": 233689193,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "ai-short-clips-generator",
+            "id": 90,
+            "name": "AI Short Clips Generator",
+            "tool_count": 134,
+            "top_tool_count": 129,
+            "top_visited_count": 28184646,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-testing-qa",
+            "id": 104,
+            "name": "AI Testing \u0026 QA",
+            "tool_count": 25,
+            "top_tool_count": 25,
+            "top_visited_count": 1254699,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "ai-voice-assistants",
+            "id": 124,
+            "name": "AI Voice Assistants",
+            "tool_count": 207,
+            "top_tool_count": 176,
+            "top_visited_count": 19081774,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-crm-assistant",
+            "id": 151,
+            "name": "AI CRM Assistant",
+            "tool_count": 199,
+            "top_tool_count": 198,
+            "top_visited_count": 136697266,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "parenting",
+            "id": 196,
+            "name": "Parenting",
+            "tool_count": 16,
+            "top_tool_count": 16,
+            "top_visited_count": 1749032,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-scheduling",
+            "id": 232,
+            "name": "AI Scheduling",
+            "tool_count": 171,
+            "top_tool_count": 169,
+            "top_visited_count": 9202150,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "ai-book-writing",
+            "id": 30,
+            "name": "AI Book Writing",
+            "tool_count": 135,
+            "top_tool_count": 125,
+            "top_visited_count": 7879467,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-photo-enhancer",
+            "id": 58,
+            "name": "AI Photo Enhancer",
+            "tool_count": 283,
+            "top_tool_count": 264,
+            "top_visited_count": 126445541,
+            "type": 1
+        },
+        {
+            "group_id": 3,
+            "handle": "ai-lip-sync-generator",
+            "id": 91,
+            "name": "AI Lip Sync Generator",
+            "tool_count": 34,
+            "top_tool_count": 33,
+            "top_visited_count": 1174370,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-api-design",
+            "id": 105,
+            "name": "AI API Design",
+            "tool_count": 155,
+            "top_tool_count": 155,
+            "top_visited_count": 11909903,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "ai-noise-cancellation",
+            "id": 125,
+            "name": "AI Noise Cancellation",
+            "tool_count": 24,
+            "top_tool_count": 24,
+            "top_visited_count": 17312611,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-reviews-assistant",
+            "id": 152,
+            "name": "AI Reviews Assistant",
+            "tool_count": 76,
+            "top_tool_count": 67,
+            "top_visited_count": 1675281,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "fitness",
+            "id": 197,
+            "name": "Fitness",
+            "tool_count": 63,
+            "top_tool_count": 49,
+            "top_visited_count": 312129,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-mind-mapping",
+            "id": 233,
+            "name": "AI Mind Mapping",
+            "tool_count": 18,
+            "top_tool_count": 18,
+            "top_visited_count": 1692540,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "paraphraser",
+            "id": 31,
+            "name": "Paraphraser",
+            "tool_count": 184,
+            "top_tool_count": 177,
+            "top_visited_count": 76946261,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-photo-restoration",
+            "id": 59,
+            "name": "AI Photo Restoration",
+            "tool_count": 62,
+            "top_tool_count": 60,
+            "top_visited_count": 13964558,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-developer-docs",
+            "id": 106,
+            "name": "AI Developer Docs",
+            "tool_count": 154,
+            "top_tool_count": 151,
+            "top_visited_count": 13999993,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "text-to-music",
+            "id": 126,
+            "name": "Text-to-Music",
+            "tool_count": 24,
+            "top_tool_count": 22,
+            "top_visited_count": 7191374,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-ad-creative-assistant",
+            "id": 153,
+            "name": "AI Ad Creative Assistant",
+            "tool_count": 437,
+            "top_tool_count": 431,
+            "top_visited_count": 373412631,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "religion",
+            "id": 198,
+            "name": "Religion",
+            "tool_count": 27,
+            "top_tool_count": 24,
+            "top_visited_count": 272681,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-forms-surveys",
+            "id": 234,
+            "name": "AI Forms \u0026 Surveys",
+            "tool_count": 72,
+            "top_tool_count": 72,
+            "top_visited_count": 4395445,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "ai-poem-poetry-generator",
+            "id": 32,
+            "name": "AI Poem \u0026 Poetry Generator",
+            "tool_count": 34,
+            "top_tool_count": 33,
+            "top_visited_count": 466175,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-photography",
+            "id": 60,
+            "name": "AI Photography",
+            "tool_count": 44,
+            "top_tool_count": 38,
+            "top_visited_count": 2785220,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-developer-tools",
+            "id": 107,
+            "name": "AI Developer Tools",
+            "tool_count": 580,
+            "top_tool_count": 507,
+            "top_visited_count": 159604195,
+            "type": 1
+        },
+        {
+            "group_id": 5,
+            "handle": "ai-singing-generator",
+            "id": 127,
+            "name": "AI Singing Generator",
+            "tool_count": 34,
+            "top_tool_count": 33,
+            "top_visited_count": 13278347,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-ad-generator",
+            "id": 154,
+            "name": "AI Ad Generator",
+            "tool_count": 536,
+            "top_tool_count": 525,
+            "top_visited_count": 388563525,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "mental-health",
+            "id": 199,
+            "name": "Mental Health",
+            "tool_count": 85,
+            "top_tool_count": 68,
+            "top_visited_count": 1566699,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-contract-management",
+            "id": 235,
+            "name": "AI Contract Management",
+            "tool_count": 45,
+            "top_tool_count": 44,
+            "top_visited_count": 10416608,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "summarizer",
+            "id": 33,
+            "name": "Summarizer",
+            "tool_count": 269,
+            "top_tool_count": 239,
+            "top_visited_count": 21299313,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-profile-picture-generator",
+            "id": 61,
+            "name": "AI Profile Picture Generator",
+            "tool_count": 294,
+            "top_tool_count": 273,
+            "top_visited_count": 51238806,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-search-engine",
+            "id": 108,
+            "name": "AI Search Engine",
+            "tool_count": 190,
+            "top_tool_count": 163,
+            "top_visited_count": 86773361,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "marketing-plan-generator",
+            "id": 155,
+            "name": "Marketing Plan Generator",
+            "tool_count": 87,
+            "top_tool_count": 87,
+            "top_visited_count": 4292011,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "healthcare",
+            "id": 200,
+            "name": "Healthcare",
+            "tool_count": 84,
+            "top_tool_count": 72,
+            "top_visited_count": 636227,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-video-recording",
+            "id": 236,
+            "name": "AI Video Recording",
+            "tool_count": 75,
+            "top_tool_count": 72,
+            "top_visited_count": 26950609,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "pick-up-lines-generator",
+            "id": 34,
+            "name": "Pick-up Lines Generator",
+            "tool_count": 15,
+            "top_tool_count": 13,
+            "top_visited_count": 346303,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-wallpaper-generator",
+            "id": 62,
+            "name": "AI Wallpaper Generator",
+            "tool_count": 81,
+            "top_tool_count": 74,
+            "top_visited_count": 14159867,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-web-scraping",
+            "id": 109,
+            "name": "Web Scraping",
+            "tool_count": 27,
+            "top_tool_count": 26,
+            "top_visited_count": 2162054,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "digital-marketing-generator",
+            "id": 156,
+            "name": "Digital Marketing Generator",
+            "tool_count": 115,
+            "top_tool_count": 115,
+            "top_visited_count": 6602719,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "sports",
+            "id": 201,
+            "name": "Sports",
+            "tool_count": 16,
+            "top_tool_count": 15,
+            "top_visited_count": 332643,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-diagram-generator",
+            "id": 237,
+            "name": "AI Diagram Generator",
+            "tool_count": 19,
+            "top_tool_count": 18,
+            "top_visited_count": 998903,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "transcription",
+            "id": 35,
+            "name": "Transcription",
+            "tool_count": 203,
+            "top_tool_count": 190,
+            "top_visited_count": 24062986,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-background-remover",
+            "id": 63,
+            "name": "AI Background Remover",
+            "tool_count": 145,
+            "top_tool_count": 138,
+            "top_visited_count": 169715582,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-app-builder",
+            "id": 110,
+            "name": "AI App Builder",
+            "tool_count": 410,
+            "top_tool_count": 326,
+            "top_visited_count": 111246785,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-email-assistant",
+            "id": 157,
+            "name": "AI Email Assistant",
+            "tool_count": 359,
+            "top_tool_count": 325,
+            "top_visited_count": 73897639,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "legal-assistant",
+            "id": 202,
+            "name": "Legal Assistant",
+            "tool_count": 49,
+            "top_tool_count": 47,
+            "top_visited_count": 6099914,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-document-extraction",
+            "id": 238,
+            "name": "AI Document Extraction",
+            "tool_count": 126,
+            "top_tool_count": 112,
+            "top_visited_count": 10360370,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "general-writing",
+            "id": 36,
+            "name": "General Writing",
+            "tool_count": 277,
+            "top_tool_count": 266,
+            "top_visited_count": 104363546,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-manga-comic",
+            "id": 64,
+            "name": "AI Manga \u0026 Comic",
+            "tool_count": 21,
+            "top_tool_count": 19,
+            "top_visited_count": 18738179,
+            "type": 1
+        },
+        {
+            "group_id": 4,
+            "handle": "ai-browsers-builder",
+            "id": 111,
+            "name": "AI Browsers Builder",
+            "tool_count": 23,
+            "top_tool_count": 14,
+            "top_visited_count": 293597,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-email-generator",
+            "id": 158,
+            "name": "AI Email Generator",
+            "tool_count": 190,
+            "top_tool_count": 178,
+            "top_visited_count": 23332235,
+            "type": 1
+        },
+        {
+            "group_id": 11,
+            "handle": "game",
+            "id": 203,
+            "name": "Game",
+            "tool_count": 69,
+            "top_tool_count": 58,
+            "top_visited_count": 2296216,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-documents-assistant",
+            "id": 239,
+            "name": "AI Documents Assistant",
+            "tool_count": 108,
+            "top_tool_count": 104,
+            "top_visited_count": 16817829,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "writing-assistants",
+            "id": 37,
+            "name": "Writing Assistants",
+            "tool_count": 947,
+            "top_tool_count": 904,
+            "top_visited_count": 157999165,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-pattern-generator",
+            "id": 65,
+            "name": "AI Pattern Generator",
+            "tool_count": 15,
+            "top_tool_count": 15,
+            "top_visited_count": 980261,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-email-marketing",
+            "id": 159,
+            "name": "AI Email Marketing",
+            "tool_count": 414,
+            "top_tool_count": 405,
+            "top_visited_count": 109042485,
+            "type": 1
+        },
+        {
+            "group_id": 15,
+            "handle": "ai-files-assistant",
+            "id": 240,
+            "name": "AI Files Assistant",
+            "tool_count": 48,
+            "top_tool_count": 46,
+            "top_visited_count": 4331214,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "ai-creative-writing",
+            "id": 38,
+            "name": "AI Creative Writing",
+            "tool_count": 291,
+            "top_tool_count": 274,
+            "top_visited_count": 27763181,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-selfie-portrait",
+            "id": 66,
+            "name": "AI Selfie \u0026 Portrait",
+            "tool_count": 243,
+            "top_tool_count": 224,
+            "top_visited_count": 38011762,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-response-generator",
+            "id": 160,
+            "name": "AI Response Generator",
+            "tool_count": 537,
+            "top_tool_count": 494,
+            "top_visited_count": 29812256,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "transcriber",
+            "id": 39,
+            "name": "Transcriber",
+            "tool_count": 153,
+            "top_tool_count": 144,
+            "top_visited_count": 20602184,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-tattoo-generator",
+            "id": 67,
+            "name": "AI Tattoo Generator",
+            "tool_count": 21,
+            "top_tool_count": 19,
+            "top_visited_count": 2437927,
+            "type": 1
+        },
+        {
+            "group_id": 7,
+            "handle": "ai-lead-generation",
+            "id": 161,
+            "name": "AI Lead Generation",
+            "tool_count": 586,
+            "top_tool_count": 583,
+            "top_visited_count": 84313686,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "ai-content-generator",
+            "id": 40,
+            "name": "AI Content Generator",
+            "tool_count": 2222,
+            "top_tool_count": 2105,
+            "top_visited_count": 344826877,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-image-scanning",
+            "id": 68,
+            "name": "AI Image Scanning",
+            "tool_count": 41,
+            "top_tool_count": 30,
+            "top_visited_count": 336965,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "ai-email-writer",
+            "id": 41,
+            "name": "AI Email Writer",
+            "tool_count": 232,
+            "top_tool_count": 205,
+            "top_visited_count": 9127277,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "image-to-image",
+            "id": 69,
+            "name": "Image to Image",
+            "tool_count": 266,
+            "top_tool_count": 249,
+            "top_visited_count": 84675598,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "ai-novel",
+            "id": 42,
+            "name": "Novel",
+            "tool_count": 41,
+            "top_tool_count": 40,
+            "top_visited_count": 11327275,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-image-segmentation",
+            "id": 70,
+            "name": "AI Image Segmentation",
+            "tool_count": 9,
+            "top_tool_count": 9,
+            "top_visited_count": 279440,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "ai-quotes-generator",
+            "id": 43,
+            "name": "Quotes Generator",
+            "tool_count": 10,
+            "top_tool_count": 10,
+            "top_visited_count": 26459,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-charting",
+            "id": 71,
+            "name": "AI Charting",
+            "tool_count": 94,
+            "top_tool_count": 92,
+            "top_visited_count": 2618187,
+            "type": 1
+        },
+        {
+            "group_id": 1,
+            "handle": "ai-product-description-generator",
+            "id": 44,
+            "name": "AI Product Description Generator",
+            "tool_count": 1750,
+            "top_tool_count": 1674,
+            "top_visited_count": 673733213,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-image-recognition",
+            "id": 72,
+            "name": "AI Image Recognition",
+            "tool_count": 164,
+            "top_tool_count": 150,
+            "top_visited_count": 8357059,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-landscape-generator",
+            "id": 73,
+            "name": "AI Landscape Generator",
+            "tool_count": 9,
+            "top_tool_count": 8,
+            "top_visited_count": 24896,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-poster-generator",
+            "id": 74,
+            "name": "AI Poster Generator",
+            "tool_count": 39,
+            "top_tool_count": 38,
+            "top_visited_count": 4496988,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-cosplay-generator",
+            "id": 75,
+            "name": "AI Cosplay Generator",
+            "tool_count": 1,
+            "top_tool_count": 1,
+            "top_visited_count": 2628,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-face-swap-generator",
+            "id": 76,
+            "name": "AI Face Swap Generator",
+            "tool_count": 50,
+            "top_tool_count": 47,
+            "top_visited_count": 12433870,
+            "type": 1
+        },
+        {
+            "group_id": 2,
+            "handle": "ai-clothing-generator",
+            "id": 77,
+            "name": "AI Clothing Generator",
+            "tool_count": 80,
+            "top_tool_count": 75,
+            "top_visited_count": 13186126,
+            "type": 1
+        },
+        {
+            "group_id": 14,
+            "handle": "prompt-1",
+            "id": 252,
+            "name": "Prompt",
+            "tool_count": 303,
+            "top_tool_count": 288,
+            "top_visited_count": 46860340,
+            "type": 1
+        }
+    ],
+    "category_count": 233,
+    "groups": [
+        {
+            "handle": "text-writing",
+            "name": "Text\u0026Writing",
+            "title": "Text\u0026Writing",
+            "values": [
+                {
+                    "group_id": 1,
+                    "handle": "ai-blog-writer",
+                    "id": 17,
+                    "name": "AI Blog Writer",
+                    "tool_count": 296,
+                    "top_tool_count": 292,
+                    "top_visited_count": 26932187,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "translate",
+                    "id": 257,
+                    "name": "Translate",
+                    "tool_count": 195,
+                    "top_tool_count": 174,
+                    "top_visited_count": 249751761,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "papers",
+                    "id": 259,
+                    "name": "Papers",
+                    "tool_count": 61,
+                    "top_tool_count": 60,
+                    "top_visited_count": 25351923,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "handwriting",
+                    "id": 18,
+                    "name": "Handwriting",
+                    "tool_count": 17,
+                    "top_tool_count": 16,
+                    "top_visited_count": 1903457,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "copywriting",
+                    "id": 19,
+                    "name": "Copywriting",
+                    "tool_count": 315,
+                    "top_tool_count": 308,
+                    "top_visited_count": 54210634,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "captions-or-subtitle",
+                    "id": 20,
+                    "name": "Captions or Subtitle",
+                    "tool_count": 171,
+                    "top_tool_count": 164,
+                    "top_visited_count": 18128798,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "essay-writer",
+                    "id": 22,
+                    "name": "Essay Writer",
+                    "tool_count": 100,
+                    "top_tool_count": 97,
+                    "top_visited_count": 28959790,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "letter-writer",
+                    "id": 23,
+                    "name": "Letter Writer",
+                    "tool_count": 24,
+                    "top_tool_count": 23,
+                    "top_visited_count": 84444,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "ai-lyrics-generator",
+                    "id": 24,
+                    "name": "AI Lyrics Generator",
+                    "tool_count": 38,
+                    "top_tool_count": 37,
+                    "top_visited_count": 9114616,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "report-writing",
+                    "id": 25,
+                    "name": "Report Writing",
+                    "tool_count": 25,
+                    "top_tool_count": 25,
+                    "top_visited_count": 347199,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "ai-rewriter",
+                    "id": 26,
+                    "name": "AI Rewriter",
+                    "tool_count": 262,
+                    "top_tool_count": 255,
+                    "top_visited_count": 86522439,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "ai-script-writing",
+                    "id": 27,
+                    "name": "AI Script Writing",
+                    "tool_count": 87,
+                    "top_tool_count": 86,
+                    "top_visited_count": 2674375,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "ai-story-writing",
+                    "id": 28,
+                    "name": "AI Story Writing",
+                    "tool_count": 231,
+                    "top_tool_count": 215,
+                    "top_visited_count": 14148097,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "ai-bio-generator",
+                    "id": 29,
+                    "name": "AI Bio Generator",
+                    "tool_count": 103,
+                    "top_tool_count": 99,
+                    "top_visited_count": 2715907,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "ai-book-writing",
+                    "id": 30,
+                    "name": "AI Book Writing",
+                    "tool_count": 135,
+                    "top_tool_count": 125,
+                    "top_visited_count": 7879467,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "paraphraser",
+                    "id": 31,
+                    "name": "Paraphraser",
+                    "tool_count": 184,
+                    "top_tool_count": 177,
+                    "top_visited_count": 76946261,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "ai-poem-poetry-generator",
+                    "id": 32,
+                    "name": "AI Poem \u0026 Poetry Generator",
+                    "tool_count": 34,
+                    "top_tool_count": 33,
+                    "top_visited_count": 466175,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "summarizer",
+                    "id": 33,
+                    "name": "Summarizer",
+                    "tool_count": 269,
+                    "top_tool_count": 239,
+                    "top_visited_count": 21299313,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "pick-up-lines-generator",
+                    "id": 34,
+                    "name": "Pick-up Lines Generator",
+                    "tool_count": 15,
+                    "top_tool_count": 13,
+                    "top_visited_count": 346303,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "transcription",
+                    "id": 35,
+                    "name": "Transcription",
+                    "tool_count": 203,
+                    "top_tool_count": 190,
+                    "top_visited_count": 24062986,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "general-writing",
+                    "id": 36,
+                    "name": "General Writing",
+                    "tool_count": 277,
+                    "top_tool_count": 266,
+                    "top_visited_count": 104363546,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "writing-assistants",
+                    "id": 37,
+                    "name": "Writing Assistants",
+                    "tool_count": 947,
+                    "top_tool_count": 904,
+                    "top_visited_count": 157999165,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "ai-creative-writing",
+                    "id": 38,
+                    "name": "AI Creative Writing",
+                    "tool_count": 291,
+                    "top_tool_count": 274,
+                    "top_visited_count": 27763181,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "transcriber",
+                    "id": 39,
+                    "name": "Transcriber",
+                    "tool_count": 153,
+                    "top_tool_count": 144,
+                    "top_visited_count": 20602184,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "ai-content-generator",
+                    "id": 40,
+                    "name": "AI Content Generator",
+                    "tool_count": 2222,
+                    "top_tool_count": 2105,
+                    "top_visited_count": 344826877,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "ai-email-writer",
+                    "id": 41,
+                    "name": "AI Email Writer",
+                    "tool_count": 232,
+                    "top_tool_count": 205,
+                    "top_visited_count": 9127277,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "ai-novel",
+                    "id": 42,
+                    "name": "Novel",
+                    "tool_count": 41,
+                    "top_tool_count": 40,
+                    "top_visited_count": 11327275,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "ai-quotes-generator",
+                    "id": 43,
+                    "name": "Quotes Generator",
+                    "tool_count": 10,
+                    "top_tool_count": 10,
+                    "top_visited_count": 26459,
+                    "type": 1
+                },
+                {
+                    "group_id": 1,
+                    "handle": "ai-product-description-generator",
+                    "id": 44,
+                    "name": "AI Product Description Generator",
+                    "tool_count": 1750,
+                    "top_tool_count": 1674,
+                    "top_visited_count": 673733213,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "image",
+            "name": "Image",
+            "title": "Image",
+            "values": [
+                {
+                    "group_id": 2,
+                    "handle": "text-to-image",
+                    "id": 45,
+                    "name": "Text to Image",
+                    "tool_count": 340,
+                    "top_tool_count": 327,
+                    "top_visited_count": 98894292,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-photo-image-generator",
+                    "id": 46,
+                    "name": "AI Photo \u0026 Image Generator",
+                    "tool_count": 1048,
+                    "top_tool_count": 982,
+                    "top_visited_count": 303810736,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-illustration-generator",
+                    "id": 47,
+                    "name": "AI Illustration Generator",
+                    "tool_count": 236,
+                    "top_tool_count": 227,
+                    "top_visited_count": 111440409,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-avatar-generator",
+                    "id": 48,
+                    "name": "AI Avatar Generator",
+                    "tool_count": 239,
+                    "top_tool_count": 219,
+                    "top_visited_count": 58853597,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-background-generator",
+                    "id": 49,
+                    "name": "AI Background Generator",
+                    "tool_count": 182,
+                    "top_tool_count": 171,
+                    "top_visited_count": 122127785,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-banner-generator",
+                    "id": 50,
+                    "name": "AI Banner Generator",
+                    "tool_count": 188,
+                    "top_tool_count": 185,
+                    "top_visited_count": 91016420,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-cover-generator",
+                    "id": 51,
+                    "name": "AI Cover Generator",
+                    "tool_count": 92,
+                    "top_tool_count": 89,
+                    "top_visited_count": 15968529,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-emoji-generator",
+                    "id": 52,
+                    "name": "AI Emoji Generator",
+                    "tool_count": 14,
+                    "top_tool_count": 13,
+                    "top_visited_count": 207788,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-gif-generator",
+                    "id": 53,
+                    "name": "AI GIF Generator",
+                    "tool_count": 5,
+                    "top_tool_count": 5,
+                    "top_visited_count": 5695145,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-icon-generator",
+                    "id": 54,
+                    "name": "AI Icon Generator",
+                    "tool_count": 45,
+                    "top_tool_count": 45,
+                    "top_visited_count": 9286530,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-image-enhancer",
+                    "id": 55,
+                    "name": "AI Image Enhancer",
+                    "tool_count": 229,
+                    "top_tool_count": 217,
+                    "top_visited_count": 97199047,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-logo-generator",
+                    "id": 56,
+                    "name": "AI Logo Generator",
+                    "tool_count": 112,
+                    "top_tool_count": 110,
+                    "top_visited_count": 48702136,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "photo-image-editor",
+                    "id": 57,
+                    "name": "Photo \u0026 Image Editor",
+                    "tool_count": 393,
+                    "top_tool_count": 360,
+                    "top_visited_count": 233689193,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-photo-enhancer",
+                    "id": 58,
+                    "name": "AI Photo Enhancer",
+                    "tool_count": 283,
+                    "top_tool_count": 264,
+                    "top_visited_count": 126445541,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-photo-restoration",
+                    "id": 59,
+                    "name": "AI Photo Restoration",
+                    "tool_count": 62,
+                    "top_tool_count": 60,
+                    "top_visited_count": 13964558,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-photography",
+                    "id": 60,
+                    "name": "AI Photography",
+                    "tool_count": 44,
+                    "top_tool_count": 38,
+                    "top_visited_count": 2785220,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-profile-picture-generator",
+                    "id": 61,
+                    "name": "AI Profile Picture Generator",
+                    "tool_count": 294,
+                    "top_tool_count": 273,
+                    "top_visited_count": 51238806,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-wallpaper-generator",
+                    "id": 62,
+                    "name": "AI Wallpaper Generator",
+                    "tool_count": 81,
+                    "top_tool_count": 74,
+                    "top_visited_count": 14159867,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-background-remover",
+                    "id": 63,
+                    "name": "AI Background Remover",
+                    "tool_count": 145,
+                    "top_tool_count": 138,
+                    "top_visited_count": 169715582,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-manga-comic",
+                    "id": 64,
+                    "name": "AI Manga \u0026 Comic",
+                    "tool_count": 21,
+                    "top_tool_count": 19,
+                    "top_visited_count": 18738179,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-pattern-generator",
+                    "id": 65,
+                    "name": "AI Pattern Generator",
+                    "tool_count": 15,
+                    "top_tool_count": 15,
+                    "top_visited_count": 980261,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-selfie-portrait",
+                    "id": 66,
+                    "name": "AI Selfie \u0026 Portrait",
+                    "tool_count": 243,
+                    "top_tool_count": 224,
+                    "top_visited_count": 38011762,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-tattoo-generator",
+                    "id": 67,
+                    "name": "AI Tattoo Generator",
+                    "tool_count": 21,
+                    "top_tool_count": 19,
+                    "top_visited_count": 2437927,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-image-scanning",
+                    "id": 68,
+                    "name": "AI Image Scanning",
+                    "tool_count": 41,
+                    "top_tool_count": 30,
+                    "top_visited_count": 336965,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "image-to-image",
+                    "id": 69,
+                    "name": "Image to Image",
+                    "tool_count": 266,
+                    "top_tool_count": 249,
+                    "top_visited_count": 84675598,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-image-segmentation",
+                    "id": 70,
+                    "name": "AI Image Segmentation",
+                    "tool_count": 9,
+                    "top_tool_count": 9,
+                    "top_visited_count": 279440,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-charting",
+                    "id": 71,
+                    "name": "AI Charting",
+                    "tool_count": 94,
+                    "top_tool_count": 92,
+                    "top_visited_count": 2618187,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-image-recognition",
+                    "id": 72,
+                    "name": "AI Image Recognition",
+                    "tool_count": 164,
+                    "top_tool_count": 150,
+                    "top_visited_count": 8357059,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-landscape-generator",
+                    "id": 73,
+                    "name": "AI Landscape Generator",
+                    "tool_count": 9,
+                    "top_tool_count": 8,
+                    "top_visited_count": 24896,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-poster-generator",
+                    "id": 74,
+                    "name": "AI Poster Generator",
+                    "tool_count": 39,
+                    "top_tool_count": 38,
+                    "top_visited_count": 4496988,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-cosplay-generator",
+                    "id": 75,
+                    "name": "AI Cosplay Generator",
+                    "tool_count": 1,
+                    "top_tool_count": 1,
+                    "top_visited_count": 2628,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-face-swap-generator",
+                    "id": 76,
+                    "name": "AI Face Swap Generator",
+                    "tool_count": 50,
+                    "top_tool_count": 47,
+                    "top_visited_count": 12433870,
+                    "type": 1
+                },
+                {
+                    "group_id": 2,
+                    "handle": "ai-clothing-generator",
+                    "id": 77,
+                    "name": "AI Clothing Generator",
+                    "tool_count": 80,
+                    "top_tool_count": 75,
+                    "top_visited_count": 13186126,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "video",
+            "name": "Video",
+            "title": "Video",
+            "values": [
+                {
+                    "group_id": 3,
+                    "handle": "ai-anime-cartoon-generator",
+                    "id": 78,
+                    "name": "AI Anime \u0026 Cartoon Generator",
+                    "tool_count": 73,
+                    "top_tool_count": 61,
+                    "top_visited_count": 65537794,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "ai-animated-video",
+                    "id": 260,
+                    "name": "AI Animated Video",
+                    "tool_count": 112,
+                    "top_tool_count": 110,
+                    "top_visited_count": 48182842,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "image-to-video",
+                    "id": 79,
+                    "name": "Image to Video",
+                    "tool_count": 25,
+                    "top_tool_count": 25,
+                    "top_visited_count": 3326939,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "ai-music-video-generator",
+                    "id": 80,
+                    "name": "AI Music Video Generator",
+                    "tool_count": 6,
+                    "top_tool_count": 5,
+                    "top_visited_count": 271403,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "ai-video-editor",
+                    "id": 81,
+                    "name": "AI Video Editor",
+                    "tool_count": 153,
+                    "top_tool_count": 146,
+                    "top_visited_count": 128654739,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "ai-video-enhancer",
+                    "id": 82,
+                    "name": "AI Video Enhancer",
+                    "tool_count": 64,
+                    "top_tool_count": 61,
+                    "top_visited_count": 35177667,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "text-to-video",
+                    "id": 83,
+                    "name": "Text to Video",
+                    "tool_count": 125,
+                    "top_tool_count": 124,
+                    "top_visited_count": 24352965,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "ai-thumbnail-maker",
+                    "id": 84,
+                    "name": "AI Thumbnail Maker",
+                    "tool_count": 33,
+                    "top_tool_count": 32,
+                    "top_visited_count": 21731335,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "ai-ugc-video-generator",
+                    "id": 85,
+                    "name": "AI UGC Video Generator",
+                    "tool_count": 64,
+                    "top_tool_count": 61,
+                    "top_visited_count": 10232925,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "ai-video-search",
+                    "id": 86,
+                    "name": "AI Video Search",
+                    "tool_count": 20,
+                    "top_tool_count": 20,
+                    "top_visited_count": 952276,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "video-to-video",
+                    "id": 87,
+                    "name": "Video to Video",
+                    "tool_count": 17,
+                    "top_tool_count": 17,
+                    "top_visited_count": 2629854,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "ai-personalized-video-generator",
+                    "id": 88,
+                    "name": "AI Personalized Video Generator",
+                    "tool_count": 88,
+                    "top_tool_count": 86,
+                    "top_visited_count": 39975383,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "ai-video-generator",
+                    "id": 89,
+                    "name": "AI Video Generator",
+                    "tool_count": 247,
+                    "top_tool_count": 237,
+                    "top_visited_count": 46548041,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "ai-short-clips-generator",
+                    "id": 90,
+                    "name": "AI Short Clips Generator",
+                    "tool_count": 134,
+                    "top_tool_count": 129,
+                    "top_visited_count": 28184646,
+                    "type": 1
+                },
+                {
+                    "group_id": 3,
+                    "handle": "ai-lip-sync-generator",
+                    "id": 91,
+                    "name": "AI Lip Sync Generator",
+                    "tool_count": 34,
+                    "top_tool_count": 33,
+                    "top_visited_count": 1174370,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "code-it",
+            "name": "Code\u0026IT",
+            "title": "Code\u0026IT",
+            "values": [
+                {
+                    "group_id": 4,
+                    "handle": "ai-maps-generator",
+                    "id": 92,
+                    "name": "AI Maps Generator",
+                    "tool_count": 7,
+                    "top_tool_count": 6,
+                    "top_visited_count": 76842,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-devops-assistant",
+                    "id": 262,
+                    "name": "AI DevOps Assistant",
+                    "tool_count": 6,
+                    "top_tool_count": 6,
+                    "top_visited_count": 98896,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-landing-page-builder",
+                    "id": 93,
+                    "name": "AI Landing Page Builder",
+                    "tool_count": 154,
+                    "top_tool_count": 154,
+                    "top_visited_count": 58826608,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-website-builder",
+                    "id": 94,
+                    "name": "AI Website Builder",
+                    "tool_count": 405,
+                    "top_tool_count": 404,
+                    "top_visited_count": 209461677,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "no-code-low-code",
+                    "id": 95,
+                    "name": "No-Code\u0026Low-Code",
+                    "tool_count": 313,
+                    "top_tool_count": 312,
+                    "top_visited_count": 52445705,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-code-assistant",
+                    "id": 96,
+                    "name": "AI Code Assistant",
+                    "tool_count": 419,
+                    "top_tool_count": 389,
+                    "top_visited_count": 58815225,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-code-explanation",
+                    "id": 97,
+                    "name": "Code Explanation",
+                    "tool_count": 147,
+                    "top_tool_count": 138,
+                    "top_visited_count": 14974580,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-code-generator",
+                    "id": 98,
+                    "name": "AI Code Generator",
+                    "tool_count": 240,
+                    "top_tool_count": 233,
+                    "top_visited_count": 27360280,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-code-refactoring",
+                    "id": 99,
+                    "name": "AI Code Refactoring",
+                    "tool_count": 40,
+                    "top_tool_count": 40,
+                    "top_visited_count": 2540069,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-monitor-report-builder",
+                    "id": 100,
+                    "name": "AI Monitor \u0026 Report Builder",
+                    "tool_count": 63,
+                    "top_tool_count": 62,
+                    "top_visited_count": 1662624,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-data-mining",
+                    "id": 101,
+                    "name": "AI Data Mining",
+                    "tool_count": 130,
+                    "top_tool_count": 130,
+                    "top_visited_count": 6411982,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-log-management",
+                    "id": 102,
+                    "name": "AI Log Management",
+                    "tool_count": 7,
+                    "top_tool_count": 7,
+                    "top_visited_count": 0,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-sql-query-builder",
+                    "id": 103,
+                    "name": "AI SQL Query Builder",
+                    "tool_count": 53,
+                    "top_tool_count": 53,
+                    "top_visited_count": 1614973,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-testing-qa",
+                    "id": 104,
+                    "name": "AI Testing \u0026 QA",
+                    "tool_count": 25,
+                    "top_tool_count": 25,
+                    "top_visited_count": 1254699,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-api-design",
+                    "id": 105,
+                    "name": "AI API Design",
+                    "tool_count": 155,
+                    "top_tool_count": 155,
+                    "top_visited_count": 11909903,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-developer-docs",
+                    "id": 106,
+                    "name": "AI Developer Docs",
+                    "tool_count": 154,
+                    "top_tool_count": 151,
+                    "top_visited_count": 13999993,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-developer-tools",
+                    "id": 107,
+                    "name": "AI Developer Tools",
+                    "tool_count": 580,
+                    "top_tool_count": 507,
+                    "top_visited_count": 159604195,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-search-engine",
+                    "id": 108,
+                    "name": "AI Search Engine",
+                    "tool_count": 190,
+                    "top_tool_count": 163,
+                    "top_visited_count": 86773361,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-web-scraping",
+                    "id": 109,
+                    "name": "Web Scraping",
+                    "tool_count": 27,
+                    "top_tool_count": 26,
+                    "top_visited_count": 2162054,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-app-builder",
+                    "id": 110,
+                    "name": "AI App Builder",
+                    "tool_count": 410,
+                    "top_tool_count": 326,
+                    "top_visited_count": 111246785,
+                    "type": 1
+                },
+                {
+                    "group_id": 4,
+                    "handle": "ai-browsers-builder",
+                    "id": 111,
+                    "name": "AI Browsers Builder",
+                    "tool_count": 23,
+                    "top_tool_count": 14,
+                    "top_visited_count": 293597,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "voice",
+            "name": "Voice",
+            "title": "Voice",
+            "values": [
+                {
+                    "group_id": 5,
+                    "handle": "ai-audio-enhancer",
+                    "id": 112,
+                    "name": "AI Audio Enhancer",
+                    "tool_count": 88,
+                    "top_tool_count": 86,
+                    "top_visited_count": 23354219,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "ai-music-generator",
+                    "id": 113,
+                    "name": "AI Music Generator",
+                    "tool_count": 139,
+                    "top_tool_count": 125,
+                    "top_visited_count": 35544778,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "text-to-speech",
+                    "id": 114,
+                    "name": "Text-to-Speech",
+                    "tool_count": 185,
+                    "top_tool_count": 174,
+                    "top_visited_count": 57758396,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "speech-to-text",
+                    "id": 115,
+                    "name": "Speech-to-Text",
+                    "tool_count": 205,
+                    "top_tool_count": 184,
+                    "top_visited_count": 26097026,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "voice-audio-editing",
+                    "id": 116,
+                    "name": "Voice \u0026 Audio Editing",
+                    "tool_count": 31,
+                    "top_tool_count": 31,
+                    "top_visited_count": 12549184,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "ai-voice-changer",
+                    "id": 117,
+                    "name": "AI Voice Changer",
+                    "tool_count": 30,
+                    "top_tool_count": 26,
+                    "top_visited_count": 18792543,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "ai-voice-chat-generator",
+                    "id": 118,
+                    "name": "AI Voice Chat Generator",
+                    "tool_count": 40,
+                    "top_tool_count": 26,
+                    "top_visited_count": 3773949,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "ai-voice-cloning",
+                    "id": 119,
+                    "name": "AI Voice Cloning",
+                    "tool_count": 93,
+                    "top_tool_count": 90,
+                    "top_visited_count": 47463344,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "ai-celebrity-voice-generator",
+                    "id": 120,
+                    "name": "AI Celebrity Voice Generator",
+                    "tool_count": 55,
+                    "top_tool_count": 52,
+                    "top_visited_count": 42501941,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "ai-rap-generator",
+                    "id": 121,
+                    "name": "AI Rap Generator",
+                    "tool_count": 14,
+                    "top_tool_count": 13,
+                    "top_visited_count": 1148810,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "ai-speech-recognition",
+                    "id": 122,
+                    "name": "AI Speech Recognition",
+                    "tool_count": 206,
+                    "top_tool_count": 180,
+                    "top_visited_count": 21781920,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "ai-speech-synthesis",
+                    "id": 123,
+                    "name": "AI Speech Synthesis",
+                    "tool_count": 200,
+                    "top_tool_count": 181,
+                    "top_visited_count": 63353990,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "ai-voice-assistants",
+                    "id": 124,
+                    "name": "AI Voice Assistants",
+                    "tool_count": 207,
+                    "top_tool_count": 176,
+                    "top_visited_count": 19081774,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "ai-noise-cancellation",
+                    "id": 125,
+                    "name": "AI Noise Cancellation",
+                    "tool_count": 24,
+                    "top_tool_count": 24,
+                    "top_visited_count": 17312611,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "text-to-music",
+                    "id": 126,
+                    "name": "Text-to-Music",
+                    "tool_count": 24,
+                    "top_tool_count": 22,
+                    "top_visited_count": 7191374,
+                    "type": 1
+                },
+                {
+                    "group_id": 5,
+                    "handle": "ai-singing-generator",
+                    "id": 127,
+                    "name": "AI Singing Generator",
+                    "tool_count": 34,
+                    "top_tool_count": 33,
+                    "top_visited_count": 13278347,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "business",
+            "name": "Business",
+            "title": "Business",
+            "values": [
+                {
+                    "group_id": 6,
+                    "handle": "accounting-assistant",
+                    "id": 128,
+                    "name": "AI Accounting Assistant",
+                    "tool_count": 49,
+                    "top_tool_count": 49,
+                    "top_visited_count": 1355480,
+                    "type": 1
+                },
+                {
+                    "group_id": 6,
+                    "handle": "research-tool",
+                    "id": 256,
+                    "name": "Research Tool",
+                    "tool_count": 128,
+                    "top_tool_count": 124,
+                    "top_visited_count": 1642052741,
+                    "type": 1
+                },
+                {
+                    "group_id": 6,
+                    "handle": "ai-business-ideas-generator",
+                    "id": 129,
+                    "name": "AI Business Ideas Generator",
+                    "tool_count": 62,
+                    "top_tool_count": 61,
+                    "top_visited_count": 7406005,
+                    "type": 1
+                },
+                {
+                    "group_id": 6,
+                    "handle": "ai-consulting-assistant",
+                    "id": 130,
+                    "name": "AI Consulting Assistant",
+                    "tool_count": 67,
+                    "top_tool_count": 64,
+                    "top_visited_count": 1574863,
+                    "type": 1
+                },
+                {
+                    "group_id": 6,
+                    "handle": "ai-trading-bot-assistant",
+                    "id": 131,
+                    "name": "AI Trading Bot Assistant",
+                    "tool_count": 83,
+                    "top_tool_count": 81,
+                    "top_visited_count": 4459466,
+                    "type": 1
+                },
+                {
+                    "group_id": 6,
+                    "handle": "tax-assistant",
+                    "id": 132,
+                    "name": "Tax Assistant",
+                    "tool_count": 12,
+                    "top_tool_count": 12,
+                    "top_visited_count": 76326,
+                    "type": 1
+                },
+                {
+                    "group_id": 6,
+                    "handle": "investing-assistant",
+                    "id": 133,
+                    "name": "Investing Assistant",
+                    "tool_count": 88,
+                    "top_tool_count": 86,
+                    "top_visited_count": 1421103,
+                    "type": 1
+                },
+                {
+                    "group_id": 6,
+                    "handle": "sales-assistant",
+                    "id": 134,
+                    "name": "Sales Assistant",
+                    "tool_count": 284,
+                    "top_tool_count": 278,
+                    "top_visited_count": 5742556,
+                    "type": 1
+                },
+                {
+                    "group_id": 6,
+                    "handle": "nfts",
+                    "id": 135,
+                    "name": "NFTs",
+                    "tool_count": 16,
+                    "top_tool_count": 16,
+                    "top_visited_count": 214579,
+                    "type": 1
+                },
+                {
+                    "group_id": 6,
+                    "handle": "blockchain",
+                    "id": 136,
+                    "name": "Blockchain",
+                    "tool_count": 62,
+                    "top_tool_count": 62,
+                    "top_visited_count": 2637151,
+                    "type": 1
+                },
+                {
+                    "group_id": 6,
+                    "handle": "ai-domain-name-generator",
+                    "id": 137,
+                    "name": "Domain Name Generator",
+                    "tool_count": 48,
+                    "top_tool_count": 48,
+                    "top_visited_count": 2374657,
+                    "type": 1
+                },
+                {
+                    "group_id": 6,
+                    "handle": "e-commerce-assistant",
+                    "id": 138,
+                    "name": "E-commerce Assistant",
+                    "tool_count": 188,
+                    "top_tool_count": 186,
+                    "top_visited_count": 115801220,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "marketing",
+            "name": "Marketing",
+            "title": "Marketing",
+            "values": [
+                {
+                    "group_id": 7,
+                    "handle": "advertising-assistant",
+                    "id": 139,
+                    "name": "AI Advertising Assistant",
+                    "tool_count": 2008,
+                    "top_tool_count": 1962,
+                    "top_visited_count": 728445355,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-instagram-assistant",
+                    "id": 246,
+                    "name": "AI Instagram Assistant",
+                    "tool_count": 118,
+                    "top_tool_count": 114,
+                    "top_visited_count": 13443341,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-twitter-assistant",
+                    "id": 247,
+                    "name": "AI Twitter Assistant",
+                    "tool_count": 116,
+                    "top_tool_count": 105,
+                    "top_visited_count": 9096210,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-youtube-assistant",
+                    "id": 248,
+                    "name": "AI YouTube Assistant",
+                    "tool_count": 134,
+                    "top_tool_count": 125,
+                    "top_visited_count": 13680959,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-facebook-assistant",
+                    "id": 249,
+                    "name": "AI Facebook Assistant",
+                    "tool_count": 67,
+                    "top_tool_count": 66,
+                    "top_visited_count": 10192075,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-tiktok-assistant",
+                    "id": 250,
+                    "name": "AI Tiktok Assistant",
+                    "tool_count": 66,
+                    "top_tool_count": 64,
+                    "top_visited_count": 39760490,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-analytics-assistant",
+                    "id": 140,
+                    "name": "AI Analytics Assistant",
+                    "tool_count": 913,
+                    "top_tool_count": 908,
+                    "top_visited_count": 165952467,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-customer-service-assistant",
+                    "id": 141,
+                    "name": "AI Customer Service Assistant",
+                    "tool_count": 570,
+                    "top_tool_count": 565,
+                    "top_visited_count": 41183992,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-podcast-assistant",
+                    "id": 143,
+                    "name": "AI Podcast Assistant",
+                    "tool_count": 81,
+                    "top_tool_count": 78,
+                    "top_visited_count": 12299712,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-reply-assistant",
+                    "id": 144,
+                    "name": "AI Reply Assistant",
+                    "tool_count": 462,
+                    "top_tool_count": 410,
+                    "top_visited_count": 23432188,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-seo-assistant",
+                    "id": 145,
+                    "name": "AI SEO Assistant",
+                    "tool_count": 466,
+                    "top_tool_count": 463,
+                    "top_visited_count": 22487216,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "bio-link",
+                    "id": 146,
+                    "name": "Bio Link",
+                    "tool_count": 45,
+                    "top_tool_count": 45,
+                    "top_visited_count": 24018924,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-social-media-assistant",
+                    "id": 147,
+                    "name": "AI Social Media Assistant",
+                    "tool_count": 491,
+                    "top_tool_count": 453,
+                    "top_visited_count": 40754302,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-hashtag-assistant",
+                    "id": 149,
+                    "name": "AI Hashtag Assistant",
+                    "tool_count": 53,
+                    "top_tool_count": 48,
+                    "top_visited_count": 1148213,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-repurpose-assistant",
+                    "id": 150,
+                    "name": "AI Repurpose Assistant",
+                    "tool_count": 162,
+                    "top_tool_count": 159,
+                    "top_visited_count": 19471660,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-crm-assistant",
+                    "id": 151,
+                    "name": "AI CRM Assistant",
+                    "tool_count": 199,
+                    "top_tool_count": 198,
+                    "top_visited_count": 136697266,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-reviews-assistant",
+                    "id": 152,
+                    "name": "AI Reviews Assistant",
+                    "tool_count": 76,
+                    "top_tool_count": 67,
+                    "top_visited_count": 1675281,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-ad-creative-assistant",
+                    "id": 153,
+                    "name": "AI Ad Creative Assistant",
+                    "tool_count": 437,
+                    "top_tool_count": 431,
+                    "top_visited_count": 373412631,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-ad-generator",
+                    "id": 154,
+                    "name": "AI Ad Generator",
+                    "tool_count": 536,
+                    "top_tool_count": 525,
+                    "top_visited_count": 388563525,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "marketing-plan-generator",
+                    "id": 155,
+                    "name": "Marketing Plan Generator",
+                    "tool_count": 87,
+                    "top_tool_count": 87,
+                    "top_visited_count": 4292011,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "digital-marketing-generator",
+                    "id": 156,
+                    "name": "Digital Marketing Generator",
+                    "tool_count": 115,
+                    "top_tool_count": 115,
+                    "top_visited_count": 6602719,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-email-assistant",
+                    "id": 157,
+                    "name": "AI Email Assistant",
+                    "tool_count": 359,
+                    "top_tool_count": 325,
+                    "top_visited_count": 73897639,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-email-generator",
+                    "id": 158,
+                    "name": "AI Email Generator",
+                    "tool_count": 190,
+                    "top_tool_count": 178,
+                    "top_visited_count": 23332235,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-email-marketing",
+                    "id": 159,
+                    "name": "AI Email Marketing",
+                    "tool_count": 414,
+                    "top_tool_count": 405,
+                    "top_visited_count": 109042485,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-response-generator",
+                    "id": 160,
+                    "name": "AI Response Generator",
+                    "tool_count": 537,
+                    "top_tool_count": 494,
+                    "top_visited_count": 29812256,
+                    "type": 1
+                },
+                {
+                    "group_id": 7,
+                    "handle": "ai-lead-generation",
+                    "id": 161,
+                    "name": "AI Lead Generation",
+                    "tool_count": 586,
+                    "top_tool_count": 583,
+                    "top_visited_count": 84313686,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "ai-detector",
+            "name": "AI Detector",
+            "title": "AI Detector",
+            "values": [
+                {
+                    "group_id": 8,
+                    "handle": "ai-detector-1",
+                    "id": 163,
+                    "name": "AI Detector",
+                    "tool_count": 118,
+                    "top_tool_count": 108,
+                    "top_visited_count": 32752490,
+                    "type": 1
+                },
+                {
+                    "group_id": 8,
+                    "handle": "ai-checker-essay",
+                    "id": 164,
+                    "name": "AI Checker Essay",
+                    "tool_count": 76,
+                    "top_tool_count": 75,
+                    "top_visited_count": 64994373,
+                    "type": 1
+                },
+                {
+                    "group_id": 8,
+                    "handle": "ai-plagiarism-checker",
+                    "id": 165,
+                    "name": "AI Plagiarism Checker",
+                    "tool_count": 57,
+                    "top_tool_count": 56,
+                    "top_visited_count": 15303614,
+                    "type": 1
+                },
+                {
+                    "group_id": 8,
+                    "handle": "ai-grammar-checker",
+                    "id": 166,
+                    "name": "AI Grammar Checker",
+                    "tool_count": 90,
+                    "top_tool_count": 82,
+                    "top_visited_count": 79443152,
+                    "type": 1
+                },
+                {
+                    "group_id": 8,
+                    "handle": "ai-content-detector",
+                    "id": 167,
+                    "name": "AI Content Detector",
+                    "tool_count": 146,
+                    "top_tool_count": 138,
+                    "top_visited_count": 34477088,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "chatbot",
+            "name": "Chatbot",
+            "title": "Chatbot",
+            "values": [
+                {
+                    "group_id": 9,
+                    "handle": "ai-chatbot",
+                    "id": 168,
+                    "name": "AI Chatbot",
+                    "tool_count": 1810,
+                    "top_tool_count": 1632,
+                    "top_visited_count": 248333169,
+                    "type": 1
+                },
+                {
+                    "group_id": 9,
+                    "handle": "ai-girlfriend",
+                    "id": 169,
+                    "name": "AI Girlfriend",
+                    "tool_count": 85,
+                    "top_tool_count": 76,
+                    "top_visited_count": 21410885,
+                    "type": 1
+                },
+                {
+                    "group_id": 9,
+                    "handle": "ai-god",
+                    "id": 170,
+                    "name": "AI God",
+                    "tool_count": 2,
+                    "top_tool_count": 2,
+                    "top_visited_count": 3706,
+                    "type": 1
+                },
+                {
+                    "group_id": 9,
+                    "handle": "ai-joke",
+                    "id": 171,
+                    "name": "AI Joke",
+                    "tool_count": 6,
+                    "top_tool_count": 6,
+                    "top_visited_count": 41975,
+                    "type": 1
+                },
+                {
+                    "group_id": 9,
+                    "handle": "ai-character",
+                    "id": 172,
+                    "name": "AI Character",
+                    "tool_count": 220,
+                    "top_tool_count": 212,
+                    "top_visited_count": 286099558,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "design-art",
+            "name": "Design\u0026Art",
+            "title": "Design\u0026Art",
+            "values": [
+                {
+                    "group_id": 10,
+                    "handle": "ai-art-generator",
+                    "id": 173,
+                    "name": "AI Art Generator",
+                    "tool_count": 806,
+                    "top_tool_count": 730,
+                    "top_visited_count": 298232838,
+                    "type": 1
+                },
+                {
+                    "group_id": 10,
+                    "handle": "ai-colorize",
+                    "id": 174,
+                    "name": "AI Colorize",
+                    "tool_count": 38,
+                    "top_tool_count": 36,
+                    "top_visited_count": 3780801,
+                    "type": 1
+                },
+                {
+                    "group_id": 10,
+                    "handle": "ai-design-generator",
+                    "id": 175,
+                    "name": "AI Design Generator",
+                    "tool_count": 400,
+                    "top_tool_count": 385,
+                    "top_visited_count": 129082682,
+                    "type": 1
+                },
+                {
+                    "group_id": 10,
+                    "handle": "ai-graphic-design",
+                    "id": 176,
+                    "name": "AI Graphic Design",
+                    "tool_count": 285,
+                    "top_tool_count": 275,
+                    "top_visited_count": 366646579,
+                    "type": 1
+                },
+                {
+                    "group_id": 10,
+                    "handle": "ai-interior-room-design",
+                    "id": 177,
+                    "name": "AI Interior \u0026 Room Design",
+                    "tool_count": 106,
+                    "top_tool_count": 99,
+                    "top_visited_count": 4738630,
+                    "type": 1
+                },
+                {
+                    "group_id": 10,
+                    "handle": "ai-pixel-art",
+                    "id": 178,
+                    "name": "AI Pixel Art",
+                    "tool_count": 15,
+                    "top_tool_count": 13,
+                    "top_visited_count": 199994,
+                    "type": 1
+                },
+                {
+                    "group_id": 10,
+                    "handle": "ai-anime-ai-art",
+                    "id": 179,
+                    "name": "AI Anime Art",
+                    "tool_count": 76,
+                    "top_tool_count": 65,
+                    "top_visited_count": 67315538,
+                    "type": 1
+                },
+                {
+                    "group_id": 10,
+                    "handle": "design-assistant",
+                    "id": 180,
+                    "name": "Design Assistant",
+                    "tool_count": 256,
+                    "top_tool_count": 247,
+                    "top_visited_count": 48055700,
+                    "type": 1
+                },
+                {
+                    "group_id": 10,
+                    "handle": "ai-font",
+                    "id": 181,
+                    "name": "AI Font",
+                    "tool_count": 3,
+                    "top_tool_count": 3,
+                    "top_visited_count": 1582818,
+                    "type": 1
+                },
+                {
+                    "group_id": 10,
+                    "handle": "ai-website-designer",
+                    "id": 182,
+                    "name": "AI Website Designer",
+                    "tool_count": 306,
+                    "top_tool_count": 306,
+                    "top_visited_count": 140412251,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "life-assistant",
+            "name": "Life Assistant",
+            "title": "Life Assistant",
+            "values": [
+                {
+                    "group_id": 11,
+                    "handle": "ai-cooking-assistant",
+                    "id": 183,
+                    "name": "AI Cooking Assistant",
+                    "tool_count": 57,
+                    "top_tool_count": 41,
+                    "top_visited_count": 351359,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "ai-dating-assistant",
+                    "id": 184,
+                    "name": "AI Dating Assistant",
+                    "tool_count": 92,
+                    "top_tool_count": 81,
+                    "top_visited_count": 11105339,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "ai-trip-planner",
+                    "id": 185,
+                    "name": "AI Trip Planner",
+                    "tool_count": 99,
+                    "top_tool_count": 94,
+                    "top_visited_count": 1497764,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "ai-recipe-assistant",
+                    "id": 186,
+                    "name": "AI Recipe Assistant",
+                    "tool_count": 74,
+                    "top_tool_count": 54,
+                    "top_visited_count": 436621,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "life-assistant-2",
+                    "id": 188,
+                    "name": "Life Assistant",
+                    "tool_count": 99,
+                    "top_tool_count": 86,
+                    "top_visited_count": 3131649,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "fun-tools",
+                    "id": 189,
+                    "name": "Fun Tools",
+                    "tool_count": 13,
+                    "top_tool_count": 11,
+                    "top_visited_count": 104955,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "ai-roadmap-generator",
+                    "id": 190,
+                    "name": "AI Roadmap Generator",
+                    "tool_count": 35,
+                    "top_tool_count": 35,
+                    "top_visited_count": 287444,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "ai-gift-ideas",
+                    "id": 191,
+                    "name": "AI Gift Ideas",
+                    "tool_count": 46,
+                    "top_tool_count": 42,
+                    "top_visited_count": 1134577,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "ai-interview-assistant",
+                    "id": 192,
+                    "name": "AI Interview Assistant",
+                    "tool_count": 105,
+                    "top_tool_count": 102,
+                    "top_visited_count": 1538401,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "ai-recruiting",
+                    "id": 193,
+                    "name": "AI Recruiting",
+                    "tool_count": 285,
+                    "top_tool_count": 279,
+                    "top_visited_count": 10700763,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "ai-resume-builder",
+                    "id": 194,
+                    "name": "Resume Builder",
+                    "tool_count": 202,
+                    "top_tool_count": 194,
+                    "top_visited_count": 7572319,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "ai-cover-letter-generator",
+                    "id": 195,
+                    "name": "Cover Letter Generator",
+                    "tool_count": 120,
+                    "top_tool_count": 112,
+                    "top_visited_count": 2716231,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "parenting",
+                    "id": 196,
+                    "name": "Parenting",
+                    "tool_count": 16,
+                    "top_tool_count": 16,
+                    "top_visited_count": 1749032,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "fitness",
+                    "id": 197,
+                    "name": "Fitness",
+                    "tool_count": 63,
+                    "top_tool_count": 49,
+                    "top_visited_count": 312129,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "religion",
+                    "id": 198,
+                    "name": "Religion",
+                    "tool_count": 27,
+                    "top_tool_count": 24,
+                    "top_visited_count": 272681,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "mental-health",
+                    "id": 199,
+                    "name": "Mental Health",
+                    "tool_count": 85,
+                    "top_tool_count": 68,
+                    "top_visited_count": 1566699,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "healthcare",
+                    "id": 200,
+                    "name": "Healthcare",
+                    "tool_count": 84,
+                    "top_tool_count": 72,
+                    "top_visited_count": 636227,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "sports",
+                    "id": 201,
+                    "name": "Sports",
+                    "tool_count": 16,
+                    "top_tool_count": 15,
+                    "top_visited_count": 332643,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "legal-assistant",
+                    "id": 202,
+                    "name": "Legal Assistant",
+                    "tool_count": 49,
+                    "top_tool_count": 47,
+                    "top_visited_count": 6099914,
+                    "type": 1
+                },
+                {
+                    "group_id": 11,
+                    "handle": "game",
+                    "id": 203,
+                    "name": "Game",
+                    "tool_count": 69,
+                    "top_tool_count": 58,
+                    "top_visited_count": 2296216,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "3d",
+            "name": "3D",
+            "title": "3D",
+            "values": [
+                {
+                    "group_id": 12,
+                    "handle": "3d-model-generator",
+                    "id": 204,
+                    "name": "AI 3D Model Generator",
+                    "tool_count": 67,
+                    "top_tool_count": 64,
+                    "top_visited_count": 7407652,
+                    "type": 1
+                },
+                {
+                    "group_id": 12,
+                    "handle": "text-to-3d",
+                    "id": 205,
+                    "name": "Text to 3D",
+                    "tool_count": 11,
+                    "top_tool_count": 11,
+                    "top_visited_count": 709807,
+                    "type": 1
+                },
+                {
+                    "group_id": 12,
+                    "handle": "image-to-3d-model",
+                    "id": 206,
+                    "name": "Image to 3D Model",
+                    "tool_count": 17,
+                    "top_tool_count": 16,
+                    "top_visited_count": 1566117,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "education",
+            "name": "Education",
+            "title": "Education",
+            "values": [
+                {
+                    "group_id": 13,
+                    "handle": "ai-homework-helper",
+                    "id": 207,
+                    "name": "Homework Helper",
+                    "tool_count": 115,
+                    "top_tool_count": 101,
+                    "top_visited_count": 42680593,
+                    "type": 1
+                },
+                {
+                    "group_id": 13,
+                    "handle": "ai-coaching",
+                    "id": 208,
+                    "name": "AI Coaching",
+                    "tool_count": 162,
+                    "top_tool_count": 156,
+                    "top_visited_count": 7708644,
+                    "type": 1
+                },
+                {
+                    "group_id": 13,
+                    "handle": "ai-knowledge-base",
+                    "id": 209,
+                    "name": "AI Knowledge Base",
+                    "tool_count": 294,
+                    "top_tool_count": 288,
+                    "top_visited_count": 14774561,
+                    "type": 1
+                },
+                {
+                    "group_id": 13,
+                    "handle": "ai-knowledge-graph",
+                    "id": 210,
+                    "name": "AI Knowledge Graph",
+                    "tool_count": 62,
+                    "top_tool_count": 62,
+                    "top_visited_count": 2754424,
+                    "type": 1
+                },
+                {
+                    "group_id": 13,
+                    "handle": "ai-tutorial",
+                    "id": 211,
+                    "name": "AI Tutorial",
+                    "tool_count": 267,
+                    "top_tool_count": 258,
+                    "top_visited_count": 36571429,
+                    "type": 1
+                },
+                {
+                    "group_id": 13,
+                    "handle": "ai-course",
+                    "id": 212,
+                    "name": "AI Course",
+                    "tool_count": 209,
+                    "top_tool_count": 202,
+                    "top_visited_count": 49225060,
+                    "type": 1
+                },
+                {
+                    "group_id": 13,
+                    "handle": "ai-knowledge-management",
+                    "id": 213,
+                    "name": "AI Knowledge Management",
+                    "tool_count": 190,
+                    "top_tool_count": 189,
+                    "top_visited_count": 8933807,
+                    "type": 1
+                },
+                {
+                    "group_id": 13,
+                    "handle": "ai-quizzes",
+                    "id": 214,
+                    "name": "AI Quizzes",
+                    "tool_count": 131,
+                    "top_tool_count": 124,
+                    "top_visited_count": 11741491,
+                    "type": 1
+                },
+                {
+                    "group_id": 13,
+                    "handle": "ai-education-assistant",
+                    "id": 215,
+                    "name": "AI Education Assistant",
+                    "tool_count": 338,
+                    "top_tool_count": 288,
+                    "top_visited_count": 27028501,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "prompt",
+            "name": "Prompt",
+            "title": "Prompt",
+            "values": [
+                {
+                    "group_id": 14,
+                    "handle": "prompt-1",
+                    "id": 252,
+                    "name": "Prompt",
+                    "tool_count": 303,
+                    "top_tool_count": 288,
+                    "top_visited_count": 46860340,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "productivity",
+            "name": "Productivity",
+            "title": "Productivity",
+            "values": [
+                {
+                    "group_id": 15,
+                    "handle": "ai-presentation-generator",
+                    "id": 253,
+                    "name": "AI Presentation Generator",
+                    "tool_count": 95,
+                    "top_tool_count": 92,
+                    "top_visited_count": 38482195,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-spreadsheet",
+                    "id": 254,
+                    "name": "AI Spreadsheet",
+                    "tool_count": 42,
+                    "top_tool_count": 42,
+                    "top_visited_count": 1352128,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "recording",
+                    "id": 261,
+                    "name": "Recording",
+                    "tool_count": 59,
+                    "top_tool_count": 54,
+                    "top_visited_count": 18999748,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-word",
+                    "id": 222,
+                    "name": "AI WORD",
+                    "tool_count": 53,
+                    "top_tool_count": 48,
+                    "top_visited_count": 237859627,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-pdf",
+                    "id": 223,
+                    "name": "AI PDF",
+                    "tool_count": 87,
+                    "top_tool_count": 79,
+                    "top_visited_count": 72739875,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-productivity-tools",
+                    "id": 224,
+                    "name": "AI Productivity Tools",
+                    "tool_count": 495,
+                    "top_tool_count": 423,
+                    "top_visited_count": 212049535,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-task-management",
+                    "id": 225,
+                    "name": "AI Task Management",
+                    "tool_count": 347,
+                    "top_tool_count": 331,
+                    "top_visited_count": 175894464,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-team-collaboration",
+                    "id": 226,
+                    "name": "AI Team Collaboration",
+                    "tool_count": 127,
+                    "top_tool_count": 126,
+                    "top_visited_count": 173691607,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-meeting-assistant",
+                    "id": 227,
+                    "name": "AI Meeting Assistant",
+                    "tool_count": 89,
+                    "top_tool_count": 88,
+                    "top_visited_count": 27629580,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-notes-assistant",
+                    "id": 228,
+                    "name": "AI Notes Assistant",
+                    "tool_count": 138,
+                    "top_tool_count": 130,
+                    "top_visited_count": 14823551,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-workflow-management",
+                    "id": 229,
+                    "name": "AI Workflow Management",
+                    "tool_count": 431,
+                    "top_tool_count": 412,
+                    "top_visited_count": 48105392,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-sop",
+                    "id": 230,
+                    "name": "AI SOP",
+                    "tool_count": 10,
+                    "top_tool_count": 10,
+                    "top_visited_count": 60024,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-project-management",
+                    "id": 231,
+                    "name": "AI Project Management",
+                    "tool_count": 220,
+                    "top_tool_count": 218,
+                    "top_visited_count": 172712207,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-scheduling",
+                    "id": 232,
+                    "name": "AI Scheduling",
+                    "tool_count": 171,
+                    "top_tool_count": 169,
+                    "top_visited_count": 9202150,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-mind-mapping",
+                    "id": 233,
+                    "name": "AI Mind Mapping",
+                    "tool_count": 18,
+                    "top_tool_count": 18,
+                    "top_visited_count": 1692540,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-forms-surveys",
+                    "id": 234,
+                    "name": "AI Forms \u0026 Surveys",
+                    "tool_count": 72,
+                    "top_tool_count": 72,
+                    "top_visited_count": 4395445,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-contract-management",
+                    "id": 235,
+                    "name": "AI Contract Management",
+                    "tool_count": 45,
+                    "top_tool_count": 44,
+                    "top_visited_count": 10416608,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-video-recording",
+                    "id": 236,
+                    "name": "AI Video Recording",
+                    "tool_count": 75,
+                    "top_tool_count": 72,
+                    "top_visited_count": 26950609,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-diagram-generator",
+                    "id": 237,
+                    "name": "AI Diagram Generator",
+                    "tool_count": 19,
+                    "top_tool_count": 18,
+                    "top_visited_count": 998903,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-document-extraction",
+                    "id": 238,
+                    "name": "AI Document Extraction",
+                    "tool_count": 126,
+                    "top_tool_count": 112,
+                    "top_visited_count": 10360370,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-documents-assistant",
+                    "id": 239,
+                    "name": "AI Documents Assistant",
+                    "tool_count": 108,
+                    "top_tool_count": 104,
+                    "top_visited_count": 16817829,
+                    "type": 1
+                },
+                {
+                    "group_id": 15,
+                    "handle": "ai-files-assistant",
+                    "id": 240,
+                    "name": "AI Files Assistant",
+                    "tool_count": 48,
+                    "top_tool_count": 46,
+                    "top_visited_count": 4331214,
+                    "type": 1
+                }
+            ]
+        },
+        {
+            "handle": "other-1",
+            "name": "Other",
+            "title": "Other",
+            "values": [
+                {
+                    "group_id": 16,
+                    "handle": "large-language-models-(llms)",
+                    "id": 241,
+                    "name": "Large Language Models (LLMs)",
+                    "tool_count": 1165,
+                    "top_tool_count": 1078,
+                    "top_visited_count": 1698142268,
+                    "type": 1
+                },
+                {
+                    "group_id": 16,
+                    "handle": "nsfw",
+                    "id": 255,
+                    "name": "NSFW",
+                    "tool_count": 62,
+                    "top_tool_count": 61,
+                    "top_visited_count": 38289535,
+                    "type": 1
+                },
+                {
+                    "group_id": 16,
+                    "handle": "web3",
+                    "id": 258,
+                    "name": "Web3",
+                    "tool_count": 40,
+                    "top_tool_count": 40,
+                    "top_visited_count": 937139,
+                    "type": 1
+                },
+                {
+                    "group_id": 16,
+                    "handle": "ai-tools-directory",
+                    "id": 242,
+                    "name": "AI Tools Directory",
+                    "tool_count": 604,
+                    "top_tool_count": 567,
+                    "top_visited_count": 113283930,
+                    "type": 1
+                },
+                {
+                    "group_id": 16,
+                    "handle": "newsletter",
+                    "id": 243,
+                    "name": "Newsletter",
+                    "tool_count": 65,
+                    "top_tool_count": 64,
+                    "top_visited_count": 15146903,
+                    "type": 1
+                },
+                {
+                    "group_id": 16,
+                    "handle": "other",
+                    "id": 244,
+                    "name": "Other",
+                    "tool_count": 1208,
+                    "top_tool_count": 1120,
+                    "top_visited_count": 180258470,
+                    "type": 1
+                }
+            ]
+        }
+    ],
+    "is_logged_in": false
+}
